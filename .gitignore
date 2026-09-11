@@ -1,0 +1,15 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/venv/
+backend/.venv/
+backend/_pycache_/
+backend/*.pyc
+
+# Secrets
+.env
+.env.*
+frontend/.env
+backend/.env
